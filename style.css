@@ -1,0 +1,50 @@
+body {
+  background-repeat: no-repeat;
+  background-color: rgb(66, 68, 99);
+}
+.ayo {
+  color: rgb(0, 0, 0);
+
+  font-size: 200px;
+  position: absolute;
+  top: 50%;
+  width: 99%;
+  text-align: center;
+}
+
+body {
+  animation: blinkingBackground 1s infinite;
+  font-family: "Roboto", sans-serif;
+}
+@keyframes blinkingBackground {
+  0% {
+    background-color: white;
+  }
+  50% {
+    background-color: red;
+  }
+  100% {
+    background-color: white;
+  }
+}
+
+gifs {
+  background-repeat: no-repeat;
+  padding-bottom: 200px;
+}
+
+.faggot {
+  position: absolute;
+  left: 500px;
+  top: 1500px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 55px;
+}
+
+.ipname {
+  font-size: 55px;
+  position: absolute;
+  top: 2500px;
+  left: 500px;
+}
