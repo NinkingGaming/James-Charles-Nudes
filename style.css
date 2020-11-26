@@ -48,3 +48,14 @@ gifs {
   top: 2500px;
   left: 500px;
 }
+
+.link {
+  font-size: 55px;
+  position: absolute;
+  top: 5500px;
+  left: 900px;
+}
+
+a {
+  text-decoration: none;
+}
